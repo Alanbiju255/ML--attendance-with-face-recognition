@@ -1,8 +1,6 @@
 # ML--attendance-with-face-recognition
 A machine learning-powered attendance system using real-time face recognition. Built with OpenCV, face_recognition, and Python, this project detects and recognizes faces to automatically log attendance into a CSV file. Ideal for classrooms, offices, and restricted-entry systems.
 
-
-# 🎓 Face Recognition Attendance System
 A real-time face recognition-based attendance system using OpenCV, face_recognition, and Python. This project includes:
 - Webcam-based attendance marking
 - Student image capture and model training
@@ -112,9 +110,3 @@ BCA student, Mar Augusthinose College
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
----
-
-```
-
-Let me know if you'd like the `LICENSE` file or `.gitignore` to go with this.
-```
